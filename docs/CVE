@@ -1,0 +1,14 @@
+CVE-2007-5020   -   mailto
+CVE-2008-0655   -   Collab.collectEmailInfo
+CVE-2007-5659   -   Collab.collectEmailInfo
+CVE-2008-2992   -   util.printf
+CVE-2009-0927   -   Collab.getIcon
+CVE-2009-1492   -   app.doc.getAnnots
+CVE-2009-1493   -   spell.customDictionaryOpen
+CVE-2009-4324   -   media.newPlayer
+CVE-2010-4091   -   app.doc.printSeps
+
+Others: ( Not yet covered )
+CVE-2009-0658   -   JBIG2Decode
+CVE-2010-0188   -   TIFF Exploit
+
